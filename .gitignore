@@ -1,0 +1,10 @@
+# Raw data (never commit)
+data/
+*.csv
+
+# Planning / working documents
+*.docx
+
+# OS / editor noise
+.DS_Store
+Thumbs.db
